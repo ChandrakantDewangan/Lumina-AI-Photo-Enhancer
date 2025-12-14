@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI Photo Enhancer",
+  "description": "Professional-grade AI photo enhancement tool using Gemini 3 Pro to restore, color-grade, and sharpen images while preserving identity.",
+  "requestFramePermissions": []
+}
